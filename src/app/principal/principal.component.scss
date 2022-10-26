@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&family=Quicksand&display=swap');
+
+#imagem{
+    margin-top: 10px;
+    width: 100%;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Poiret One', cursive;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+}
+
+.Cards{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card{
+    width: 15%;
+    font-family: 'Quicksand', sans-serif;
+}
+
+button{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    background: #AED9E0;
+}
